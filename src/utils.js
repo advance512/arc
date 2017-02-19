@@ -3,7 +3,7 @@ import glob from 'glob'
 import fs from 'fs'
 
 export const templateListPath = path.join(__dirname, '../templates')
-export const defaultBranch = 'redux'
+export const defaultBranch = 'fullstack'
 export const branchList = fs.readdirSync(templateListPath)
 export const repositoryUrl = 'https://github.com/diegohaz/arc'
 
