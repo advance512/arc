@@ -10,3 +10,7 @@
 	path = templates/universal-redux
 	url = https://github.com/diegohaz/arc
 	branch = universal-redux
+[submodule "templates/fullstack"]
+	path = templates/fullstack
+	url = git@github.com:advance512/arc.git
+	branch = fullstack
